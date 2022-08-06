@@ -1,6 +1,6 @@
 # GOLANG UTILS - WIP
 
 ## Tools
-   * 🪚[Yml Parser Config](https://github.com/pablotrianda/yml-parser-config) Use to save configurations
+   * 🪚[Config manager](https://github.com/pablotrianda/config) Use to save configurations on yml format
    * `command-runner` Use to run linux commands
    * `fs` Handle file systems utilities
