@@ -1,6 +1,6 @@
 # GOLANG UTILS - WIP
 
 ## Tools
-   * `yml-parser` Use to save configurations
-   * `clig` Use to create a cli option fast and easy using the standard library
+   * 🪚[Yml Parser Config](https://github.com/pablotrianda/yml-parser-config) Use to save configurations
    * `command-runner` Use to run linux commands
+   * `fs` Handle file systems utilities
