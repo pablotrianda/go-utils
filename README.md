@@ -2,5 +2,6 @@
 
 ## Tools
    * 🪚[Config manager](https://github.com/pablotrianda/config) Use to save configurations on yml format
-   * `command-runner` Use to run linux commands
-   * `fs` Handle file systems utilities
+   * 🪣[DB](https://github.com/pablotrianda/db) use a database on a easy way
+   * `command-runner` Use to run linux commands [TODO]
+   * `fs` Handle file systems utilities [TODO]
